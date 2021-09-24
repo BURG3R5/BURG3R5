@@ -14,7 +14,7 @@
 
 ### Happy to see you here! 🙃
 
-I'm a final year student pursuing Bachelors's in Mechanical Engineering from IIT Roorkee 🎓. I'm currently into Flutter App Development :dart: and working on my TDD Skills 🤓.
+I'm a final year student pursuing Bachelors's in Mechanical Engineering from IIT Roorkee 🎓. I'm currently into Flutter App Development :dart: and working on my TDD skills.
 
 ### More about me...
 
