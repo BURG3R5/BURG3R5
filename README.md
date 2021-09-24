@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**BURG3R5/BURG3R5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [RDrive](https://github.com/mdg-iitr/rdrive-flutter), [Delta](https://github.com/mdg-iitr/delta-flutter) and [Security App](https://github.com/mdg-iitr/security-app-flutter)!
+- 🌱 I’m currently learning DRF and TDD.
+- 📫 How to reach me: [email](aditya2@me.iitr.ac.in) or [LinkedIn](https://www.linkedin.com/in/aditya-rajput-2072/).
+- 😄 Pronouns: he/him
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-singh7" alt="aman-singh7" /> </p>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=aman-singh7&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aman-singh7&hide=css,java,html&theme=tokyonight&line_height=27">
+</p>
+  
