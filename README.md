@@ -14,12 +14,12 @@
 
 ### Happy to see you here! 🙃
 
-I'm a second year student pursuing Bachelors's in Mechanical Engineering from IIT Roorkee 🎓. I'm currently into Flutter App Development and working on my TDD skills.
+I'm a second year student pursuing Bachelors in Mechanical Engineering ⚙ from IIT Roorkee 🎓. I'm currently into Flutter and Python and working on my TDD skills.
 
 ### More about me...
 
-- 🔭 I’m currently working on [RDrive](https://github.com/mdg-iitr/rdrive-flutter), [Delta](https://github.com/mdg-iitr/delta-flutter) and [Security App](https://github.com/mdg-iitr/security-app-flutter)!
-- 🌱 I’m currently learning DRF and TDD.
+- 🔭 I’m currently working on [RDrive](https://github.com/mdg-iitr/rdrive-flutter), [Security App](https://github.com/mdg-iitr/security-app-flutter) and [GitHub Slack Bot](https://github.com/mdg-iitr/github-slack-bot)!
+- 🌱 I’m currently learning TDD.
 - 📫 How to reach me: [email](mailto:adiraj20072002@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aditya-rajput-2072/).
 - 😄 Pronouns: he/him
 
@@ -28,4 +28,3 @@ I'm a second year student pursuing Bachelors's in Mechanical Engineering from II
   <img src = "https://github-readme-stats.vercel.app/api?username=BURG3R5&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BURG3R5&hide=css,html&theme=tokyonight&line_height=27">
 </p>
-  
