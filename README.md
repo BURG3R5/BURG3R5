@@ -18,7 +18,7 @@ I'm a second year student pursuing Bachelors in Mechanical Engineering ⚙ from 
 
 ### More about me...
 
-- 🔭 I’m currently working on [RDrive](https://github.com/mdg-iitr/rdrive-flutter), [Security App](https://github.com/mdg-iitr/security-app-flutter), [Codephile](https://github.com/mdg-iitr/codephile-mobile) and [GitHub Slack Bot](https://github.com/mdg-iitr/github-slack-bot)!
+- 🔭 I’m currently working on [RDrive](https://github.com/mdgspace/rdrive-flutter), [Security App](https://github.com/mdgspace/security-app-flutter), [Codephile](https://github.com/mdgspace/codephile-mobile) and [GitHub Slack Bot](https://github.com/mdgspace/github-slack-bot)!
 - 🌱 I’m currently learning TDD.
 - 📫 How to reach me: [email](mailto:adiraj20072002@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aditya-rajput-2072/).
 - 😄 Pronouns: he/him
