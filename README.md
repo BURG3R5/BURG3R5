@@ -23,8 +23,9 @@ I'm a second year student pursuing Bachelors in Mechanical Engineering ⚙ from 
 - 📫 How to reach me: [email](mailto:adiraj20072002@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aditya-rajput-2072/).
 - 😄 Pronouns: he/him
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BURG3R5" alt="BURG3R5" /> </p>
-<p align = "center">
+<p>
   <img src = "https://github-readme-stats.vercel.app/api?username=BURG3R5&show_icons=true&theme=tokyonight&line_height=27">
+</p>
+<p>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BURG3R5&hide=css,html&theme=tokyonight&line_height=27">
 </p>
