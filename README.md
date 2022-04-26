@@ -14,12 +14,12 @@
 
 ### Happy to see you here! 🙃
 
-I'm a second year student pursuing Bachelors in Mechanical Engineering ⚙ from IIT Roorkee 🎓. I'm currently into Flutter and Python and working on my TDD skills.
+I'm a second year student pursuing Bachelors of Technology from IIT Roorkee 🎓. I'm currently into Cryptography and Blockchain tech.
 
 ### More about me...
 
-- 🔭 I’m currently working on [RDrive](https://github.com/mdgspace/rdrive-flutter), [Security App](https://github.com/mdgspace/security-app-flutter), [Codephile](https://github.com/mdgspace/codephile-mobile) and [GitHub Slack Bot](https://github.com/mdgspace/github-slack-bot)!
-- 🌱 I’m currently learning TDD.
+- 🔭 I’m currently working on [Codephile](https://github.com/mdgspace/codephile-mobile) and [GitHub Slack Bot](https://github.com/mdgspace/github-slack-bot)!
+- 🌱 I’m currently learning Blockchain tech.
 - 📫 How to reach me: [email](mailto:adiraj20072002@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aditya-rajput-2072/).
 - 😄 Pronouns: he/him
 
