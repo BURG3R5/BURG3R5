@@ -19,7 +19,7 @@ I'm a second year student pursuing Bachelors of Technology from IIT Roorkee 🎓
 ### More about me...
 
 - 🔭 I’m currently working on [Codephile](https://github.com/mdgspace/codephile-mobile) and [GitHub Slack Bot](https://github.com/BURG3R5/github-slack-bot)!
-- 🌱 I’m currently learning Blockchain tech.
+- 🌱 I’m currently exploring ML and Cryptography.
 - 📫 How to reach me: [email](mailto:adiraj20072002@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aditya-rajput-2072/).
 - 😄 Pronouns: he/him
 
