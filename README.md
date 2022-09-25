@@ -17,12 +17,12 @@
 
 ### Happy to see you here! 🙃
 
-I'm a second year student pursuing Bachelors of Technology from IIT Roorkee 🎓. I'm currently into Cryptography and ML tech.
+I'm a third year student pursuing Bachelors of Technology from IIT Roorkee 🎓. I'm currently into Cryptography and Machine Learning.
 
 ### More about me...
 
-- 🔭 I’m currently working on [Matrix-Encrypted-Search](https://github.com/BURG3R5/matrix-encrypted-search), [Codephile](https://github.com/mdgspace/codephile-mobile) and [GitHub Slack Bot](https://github.com/BURG3R5/github-slack-bot)!
-- 🌱 I’m currently exploring ML and Cryptography.
+- 🔭 I’m currently working on [Matrix-Encrypted-Search](https://github.com/BURG3R5/matrix-encrypted-search) and [GitHub Slack Bot](https://github.com/BURG3R5/github-slack-bot)!
+- 🌱 I’m currently exploring DS/ML and Cryptography.
 - 📫 How to reach me: [email](mailto:adiraj20072002@gmail.com), [Matrix](https://matrix.to/#/@burgers:matrix.org) or [LinkedIn](https://www.linkedin.com/in/aditya-rajput-2072/).
 - 😄 Pronouns: he/him
 
