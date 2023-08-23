@@ -27,7 +27,7 @@ I'm a final year student pursuing Bachelors of Technology from IIT Roorkee 🎓.
 - 😄 Pronouns: he/him
 
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=BURG3R5&show_icons=true&theme=tokyonight&line_height=27&count_private=true&show_icons=true&include_all_commits=true">
+  <img src = "https://readme-stats-rho-five.vercel.app/api?username=BURG3R5&show_icons=true&theme=tokyonight&line_height=27&count_private=true&show_icons=true&include_all_commits=true">
 </p>
 <p>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BURG3R5&hide=css,html&theme=tokyonight&line_height=27&&layout=compact">
