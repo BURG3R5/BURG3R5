@@ -15,11 +15,9 @@
 
 <br />
 
-### Happy to see you here! 🙃
+#### Happy to see you here! 🙃
 
-I'm a final year student pursuing Bachelors of Technology from IIT Roorkee 🎓. I'm currently into Cryptography and Rust.
-
-### More about me...
+### About me...
 
 - 🔭 I’m currently working on [firefox-bookmarks](https://github.com/BURG3R5/firefox-bookmarks)!
 - 🌱 I’m currently exploring Cryptography and Networking.
